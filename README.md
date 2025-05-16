@@ -41,7 +41,7 @@ This project explores the deployment of **T-Pot**, a multi-honeypot platform, on
 ## 📥 Installation Steps
 
 1. **Create VM** in Azure with required specs.
-2. **Open Putty**, SSH into the server.
+2. **Open Putty**, SSH into the server use VM IP and Port 22.
 3. **Update System**:
    ```bash
    sudo apt update
